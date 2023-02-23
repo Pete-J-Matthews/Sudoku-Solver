@@ -3,6 +3,8 @@ Sudoku Solver
 
 This is a Python program for solving a Sudoku puzzle.
 
+**[Click Here!](www.pete-j-matthews.com/Sudoku-Solver)**
+
 Description
 -----------
 
